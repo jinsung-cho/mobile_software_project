@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/internal_facility"
+        android:title="건물 안내"/>
+
+    <item
+        android:id="@+id/external_facility"
+        android:title="시설물 안내"/>
+
+    <item
+        android:id="@+id/link_sunmoon"
+    android:title="학교 홈페이지"/>
+</menu>
